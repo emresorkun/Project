@@ -1,2 +1,2 @@
 # Ignores all the files under images folders
-images/
+images/**
